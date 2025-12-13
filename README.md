@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anubha0308
 - 👀 I’m interested in Algorithms , Web dev and UI/UX 
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on real-development projects
+- 💞️ I’m looking to github
 - 📫 How to reach me ... here only
 
 <!---
