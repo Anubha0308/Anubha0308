@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anubha Sharma , CS student at mnnit allahabad.
+- 👋 Hi, I am Anubha Sharma, a Computer Science student at MNNIT Allahabad.
 - I’m interested in Data Structures & Algorithms , Web development , Databases and UI/UX.
 - Proficient in PERN and MERN, and backend systems using FastAPI.
 - I’m currently learning Computer Science.
